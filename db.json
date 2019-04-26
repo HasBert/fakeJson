@@ -1,0 +1,58 @@
+{
+	"pdf1": [
+		{
+			"id": 11,
+			"type": "inputbox",
+			"name": "first inputbox"
+		},
+		{
+			"id": 12,
+			"type": "tableField",
+			"name": "tableField_0.0"
+		},
+		{
+			"id": 13,
+			"type": "tableField",
+			"name": "tableField_1.0"
+		},
+		{
+			"id": 14,
+			"type": "tableField",
+			"name": "tableField_0.1"
+		},
+		{
+			"id": 15,
+			"type": "tableField",
+			"name": "tableField_1.1"
+		}
+	],
+	"pdf2": [
+		{
+			"id": 21,
+			"type": "dropdown",
+			"name": "univerity dropdown"
+		},
+		{
+			"id": 22,
+			"type": "datefield",
+			"name": "birthdate"
+		}
+	],
+	"pdf3": [
+		{
+			"id": 31,
+			"type": "inputbox",
+			"name": "first inputbox"
+		},
+		{
+			"id": 31,
+			"type": "dropdown",
+			"name": "univerity dropdown"
+		},
+		{
+			"id": 32,
+			"type": "datefield",
+			"name": "birthdate"
+		}
+	]
+}
